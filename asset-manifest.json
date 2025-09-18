@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/T2505E-RMWD-thi/static/css/main.ad01b4ee.css",
+    "main.js": "/T2505E-RMWD-thi/static/js/main.ee8a176c.js",
+    "static/js/453.2416a014.chunk.js": "/T2505E-RMWD-thi/static/js/453.2416a014.chunk.js",
+    "index.html": "/T2505E-RMWD-thi/index.html",
+    "main.ad01b4ee.css.map": "/T2505E-RMWD-thi/static/css/main.ad01b4ee.css.map",
+    "main.ee8a176c.js.map": "/T2505E-RMWD-thi/static/js/main.ee8a176c.js.map",
+    "453.2416a014.chunk.js.map": "/T2505E-RMWD-thi/static/js/453.2416a014.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad01b4ee.css",
+    "static/js/main.ee8a176c.js"
+  ]
+}
